@@ -1,0 +1,23 @@
+{
+  "name": "boxcontroller",
+  "version": "1.0.0",
+  "description": "Controlador de fluxo de caixa.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hianmatheuscorreamiranda/boxcontroller.git"
+  },
+  "author": "Hian M C Miranda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hianmatheuscorreamiranda/boxcontroller/issues"
+  },
+  "homepage": "https://github.com/hianmatheuscorreamiranda/boxcontroller#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase": "^10.1.0"
+  }
+}
